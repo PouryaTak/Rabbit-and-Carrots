@@ -1,2 +1,2 @@
-# js-game
-[Play Game](https://pouriversal.github.io/js-game/)
+# Rabbit-and-Carrots
+[Play Game](https://pouriversal.github.io/Rabbit-and-Carrots/)
